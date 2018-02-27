@@ -43,5 +43,14 @@
 
 - [Mozilla Developer Network - CSS Length](https://developer.mozilla.org/en-US/docs/Web/CSS/length)
 
+- [Hex to RGB Convertor](http://hex.colorrrs.com/)
+
+- [Named Colors and Hex Equivalents](https://css-tricks.com/snippets/css/named-colors-and-hex-equivalents/)
+
+- [CSS Shorthand Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties)
+
+- [CSS Shorthand Hexadecimal form](https://en.wikipedia.org/wiki/Web_colors#Shorthand_hexadecimal_form)
+
+
 ### Browse Developer tools
 
