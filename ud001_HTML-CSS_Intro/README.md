@@ -1,6 +1,8 @@
-# Intro to HTML and CSS - ud001
+## Intro to HTML and CSS - ud001
+> Beginner Course on HTML & CSS
+---
+### Course Lessons Structure
 
-## Course Lessons Structure
 
 1. **HTML Syntax**
 
@@ -25,9 +27,7 @@
     - Style images
     - Style the font of the page
     - Create and link a stylesheet
-
-
-
+---
 
 ## Resources
 
