@@ -51,6 +51,13 @@
 
 - [CSS Shorthand Hexadecimal form](https://en.wikipedia.org/wiki/Web_colors#Shorthand_hexadecimal_form)
 
+- [Web-safe Fonts](http://www.cssfontstack.com/)
+
+- [MDN's Selectors](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/Selectors)
+
+- [How CSS Selectors Work](https://css-tricks.com/how-css-selectors-work/)
+
+
 
 ### Browse Developer tools
 
