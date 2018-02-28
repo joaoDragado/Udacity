@@ -58,6 +58,8 @@
 - [How CSS Selectors Work](https://css-tricks.com/how-css-selectors-work/)
 
 
-
 ### Browse Developer tools
 
+- [Chrome DevTools Walkthrough](https://developers.google.com/web/tools/chrome-devtools/)
+
+- [Firefox Developer Tools Walkthrough](https://developer.mozilla.org/en-US/docs/Tools/Tools_Toolbox)
