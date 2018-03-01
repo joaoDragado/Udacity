@@ -28,7 +28,7 @@
  **Lesson 5: Functions**
 
 - Organize your code by declaring functions and writing function expressions
-- Demystify tricky JavaScript behavior by learning about scope and hoisting
+- Demystify tricky JavaScript behavior by learning about scope and hoistinghttps://developer.mozilla.org/en-US/docs/Web/JavaScript
 
  **Lesson 6: Arrays**
 
@@ -45,6 +45,12 @@
 
 ### 
 
+- [MDN Web Docs - Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+- [Udacity Javascript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
+
+- [ASCII table](http://www.ascii-code.com/)
+    - Numerical value that corresponds to the character's location in an ASCII table.
 
 ### Browse Developer tools
 
