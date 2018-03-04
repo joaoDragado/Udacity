@@ -1,4 +1,7 @@
 // Loops
+
+
+// While loops
 /*
 var start = 0; // when to start
 while (start < 10) { // when to stop
@@ -64,3 +67,49 @@ while (count > -1) {
 */
 
 
+// for loops
+/*
+for ( start; stop; step ) {
+  // do this thing
+}
+
+
+// example
+for (var i = 0; i < 6; i = i + 1) {
+  console.log("Printing out i = " + i);
+}
+*/
+
+//Quiz: Changing the Loop (4-4)
+
+/*for (var x = 9; x >= 1 ; x--) {
+    console.log('hello ' + x);
+    }
+*/
+
+// Quiz: Fix the Error 1 (4-5)
+
+/*for (var x = 5; x < 10; x++) {
+  console.log(x);
+}
+*/
+
+// Quiz: Factorials! (4-7)
+/*
+var solution = 1;
+for (var i = 1; i <= 12; i++) {
+    solution *= i
+}
+console.log(solution);
+//console.log(12*11*10*9*8*7*6*5*4*3*2);
+*/
+
+
+// Quiz: Find my Seat (4-8)
+
+/*for (var i = 0 ;  i <= 25 ; i++) {
+    for (var j = 0; j < 100; j++) {
+        console.log(i+'-'+j);
+    }
+}
+*/
