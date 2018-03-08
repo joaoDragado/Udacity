@@ -2,11 +2,39 @@
 
 # Free Courses
 
-## Web Dev
+## Front Dev
 
+- [x] GitHub & Collaboration
+ 
+- [ ] Web Tooling & Automation
 
+- [x] Intro to HTML and CSS 
+    - [ ] Responsive Web Design Fundamentals
+    - [ ] Responsive Images
+    - [ ] HTML5 Canvas
+
+- [x] JavaScript Basics
+    - [ ] Object-Oriented JavaScript
+    - [ ] Intro to jQuery
+
+- [ ] Building High Conversion Web Forms
+- [ ] Asynchronous JavaScript Requests
+
+---
+
+## Full Stack
+
+- [ ] Networking for Web Developers
+- [ ] Intro to AJAX
+- [ ] Intro to Relational Databases
+- [ ] Full Stack Foundations
+- [ ] Authentication & Authorization: OAuth
+- [ ] Designing RESTful APIs
+
+---
 ## Data Science
 
+---
 ---
 
 # Nanodegrees
@@ -83,7 +111,7 @@ FEE : $199 USD / month
 > You will analyze data from the logs of a web service to answer questions such as "What is the most popular page?" and "When was the error rate high?" using advanced SQL queries.
 
 4. **Item Catalog**
-- ** **
+- **OAuth 2.0**
 > You will develop an application that provides a list of items within a variety of categories as well as provide a user registration and authentication system. Registered users will have the ability to post, edit and delete their own items.
 
 
