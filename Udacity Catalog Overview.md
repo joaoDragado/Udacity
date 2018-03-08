@@ -1,4 +1,3 @@
----
 
 # Free Courses
 
@@ -9,13 +8,13 @@
 - [ ] Web Tooling & Automation
 
 - [x] Intro to HTML and CSS 
-    - [ ] Responsive Web Design Fundamentals
-    - [ ] Responsive Images
-    - [ ] HTML5 Canvas
+- [ ] Responsive Web Design Fundamentals
+- [ ] Responsive Images
+- [ ] HTML5 Canvas
 
 - [x] JavaScript Basics
-    - [ ] Object-Oriented JavaScript
-    - [ ] Intro to jQuery
+- [ ] Object-Oriented JavaScript
+- [ ] Intro to jQuery
 
 - [ ] Building High Conversion Web Forms
 - [ ] Asynchronous JavaScript Requests
