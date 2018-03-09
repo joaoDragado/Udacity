@@ -12,5 +12,9 @@
 
 - [iOS Emulator via Safari Dev Tools](https://www.smashingmagazine.com/2014/09/testing-mobile-emulators-simulators-remote-debugging/)
 
+- [Using the viewport meta tag to control layout on mobile browsers](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
+
+- [W3C - List of CSS Properties](https://www.w3.org/community/webed/wiki/CSS/Properties)
+
 
 
