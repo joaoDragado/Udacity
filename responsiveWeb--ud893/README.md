@@ -25,7 +25,9 @@
 - [MDN - Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 
 
-### Grid Layout
+### Responsive Web Design Patterns
+
+- [Responsive Web Design Patterns](https://developers.google.com/web/fundamentals/design-and-ux/responsive/patterns)
 
 - [MDN - Flexbox Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout)
 
@@ -38,5 +40,23 @@
 ### Nav Bars - hamburger icon
 
 - [Trigram for Heaven](http://unicode-table.com/en/2630)
+https://developers.google.com/web/fundamentals/design-and-ux/responsive/images
 
 - [bars](http://fortawesome.github.io/Font-Awesome/icon/bars)
+
+
+### Responsive Images
+
+- [Responsive Images](https://developers.google.com/web/fundamentals/design-and-ux/responsive/images
+)
+
+
+### Responsive Tables
+
+- [Responsive Data Table Roundup](https://css-tricks.com/responsive-data-table-roundup/)
+
+
+### Responsive Text
+
+- [Pure CSS for multiline truncation with ellipsis ](http://hackingui.com/front-end/a-pure-css-solution-for-multiline-text-truncation/)
+
