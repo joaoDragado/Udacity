@@ -8,7 +8,7 @@
 - [ ] Web Tooling & Automation
 
 - [x] Intro to HTML and CSS 
-- [ ] Responsive Web Design Fundamentals
+- [x] Responsive Web Design Fundamentals
 - [ ] Responsive Images
 - [ ] HTML5 Canvas
 
