@@ -53,12 +53,45 @@
 - [Icon Fonts are Awesome](https://css-tricks.com/examples/IconFont/)
 
 - **Lists of Free Icon Fonts** 
+    
+    - [Zocial : Icons, Social Buttons & more](http://zocial.smcllns.com/)
+
     - [List of 41 Beautiful & Free Icon Fonts](https://css-tricks.com/examples/IconFont/)
 
     - [Top 50 Free Icon Fonts for Web Design](https://speckyboy.com/free-icon-fonts/)
 
     - [30 + Useful Free Icon Fonts](https://cssauthor.com/free-icon-fonts/)
 
+### Inlining images with SVG and data URIs
+
+- [Browser support for inline SVG](http://caniuse.com/#feat=svg-html5)
+
+- [Browser support for Data URIs](http://caniuse.com/datauri)
+
+- [SVG Optimiser](http://petercollingridge.appspot.com/svg-optimiser)
+
+- [Trajan's Column SVG example](http://upload.wikimedia.org/wikipedia/commons/6/6c/Trajans-Column-lower-animated.svg)
+
+- [20 examples of SVG that will make your jaw drop](http://www.creativebloq.com/design/examples-svg-7112785)
+
+- [SVG animation examples](http://codepen.io/chrisgannon/)
+
+
+
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
 
 
 - []()
