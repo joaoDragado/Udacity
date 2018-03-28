@@ -57,6 +57,7 @@
 
 - [How CSS Selectors Work](https://css-tricks.com/how-css-selectors-work/)
 
+- [Background Gradients Examples via CSS](https://www.eggradients.com/)
 
 ### Browse Developer tools
 
