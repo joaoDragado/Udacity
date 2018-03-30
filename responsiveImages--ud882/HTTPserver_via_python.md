@@ -1,6 +1,6 @@
 ### Set up a HTTP Server with Python
 
-1. cd to the prject's directory
+1. cd to the project's directory
 
 2. run the command
 > python -m http.server
