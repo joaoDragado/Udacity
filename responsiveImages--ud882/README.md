@@ -64,6 +64,10 @@
 
 ### Inlining images with SVG and data URIs
 
+- [SVG: Scalable Vector Graphics - MDN](https://developer.mozilla.org/en-US/docs/Web/SVG)
+
+- [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)
+
 - [Browser support for inline SVG](http://caniuse.com/#feat=svg-html5)
 
 - [Browser support for Data URIs](http://caniuse.com/datauri)
@@ -79,7 +83,6 @@
 
 
 
-- []()
 
 - []()
 
