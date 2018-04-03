@@ -81,16 +81,18 @@
 - [SVG animation examples](http://codepen.io/chrisgannon/)
 
 
+### Responding to Screen Capability & View
 
+- [Responsive Hero Images](https://cloudfour.com/thinks/responsive-hero-images/)
 
+- [Responsive Images Audits](https://cloudfour.com/thinks/responsive-images-audits/)
 
-- []()
+- **srcset**
 
-- []()
+    - [Srcset and sizes](http://ericportis.com/posts/2014/srcset-sizes/)
 
-- []()
+    - [High DPI Images for Variable Pixel Densities](https://www.html5rocks.com/en/mobile/high-dpi/)
 
-- []()
 
 - []()
 
