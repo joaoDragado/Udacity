@@ -94,16 +94,27 @@
     - [High DPI Images for Variable Pixel Densities](https://www.html5rocks.com/en/mobile/high-dpi/)
 
 
-- []()
+### The Picture Element
 
-- []()
+- [Built-in Browser Support for Responsive Images](https://www.html5rocks.com/en/tutorials/responsive/picture-element/)
+
+- [Responsive Images: Use Cases and Documented Code Snippets](https://dev.opera.com/articles/responsive-images/)
+
+- [Picturefill : A responsive image polyfill](http://scottjehl.github.io/picturefill/)
+
+> **Element Queries** will work like **Media Queries**, but with reference to the **size of an element's parent container** rather than **viewport size**. Browser implementation is in progress and in the meantime there's a polyfill [here](https://github.com/marcj/css-element-queries).
+
+- [More information about the WebP image format](https://developers.google.com/speed/webp/?csw=1)
 
 
-- []()
+### General advice about alt attributes
 
-- []()
+1. *alt* attributes should be descriptive for important images.
 
-- []()
+2. *alt* attributes should be empty for images that are just decorations, like any boilerplate (empty of content) image.
+
+3. *alt* attributes should be set on every image, just like this pig is set on being so darn cute.
+
 
 - []()
 
