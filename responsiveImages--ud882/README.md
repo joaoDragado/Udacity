@@ -115,11 +115,3 @@
 
 3. *alt* attributes should be set on every image, just like this pig is set on being so darn cute.
 
-
-- []()
-
-- []()
-
-- []()
-
-- []()

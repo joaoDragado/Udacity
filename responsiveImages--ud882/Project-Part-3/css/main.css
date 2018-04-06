@@ -1,0 +1,84 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 2em;
+}
+
+article {
+  margin: 0 auto;
+  max-width: 50em;
+}
+
+h1 {
+  margin: 0 auto 1em auto;
+  width: 800px;
+}
+
+img {
+  max-width: 100%;
+}
+
+figure {
+  margin: 1em 0 1em 0;
+}
+
+figcaption {
+  color: #7F7F7F;
+  padding: 1em 0;
+  font-style: italic;
+  font-size: 0.9rem;
+}
+
+#smiley {
+    font-size: 1.5rem;
+}
+
+hr {
+    width: 90%;
+    border: none;
+    height: 1px;
+    /* Set the hr color */
+    background-color: gray;
+    }
+
+header {
+    margin: 0 auto;
+    width: 800px;
+}
+
+a#mast {
+    text-decoration: none;
+}
+
+#logo {
+    color: #D3848A;
+    font-size: 3rem;
+    text-shadow: 2px 2px grey;
+}
+
+header:hover #logo {
+    color: #84B6D3;
+}
+
+/*Zocial Button Styling */
+
+.zocial {
+    display: inline-block;
+    
+    margin: 10px 5px;
+    //text-shadow: 3px 3px 3px #aaa;
+}
+
+div#social {
+  float: right;
+  line-height: 2em;
+}
+
+.github {
+    position: relative;
+    left: -20px;
+    }
+
+/* hover effect */
+.zocial:hover {
+    opacity: 0.7;
+}

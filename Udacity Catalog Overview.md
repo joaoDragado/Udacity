@@ -9,7 +9,7 @@
 
 - [x] Intro to HTML and CSS 
 - [x] Responsive Web Design Fundamentals
-- [ ] Responsive Images
+- [x] Responsive Images
 - [ ] HTML5 Canvas
 
 - [x] JavaScript Basics
