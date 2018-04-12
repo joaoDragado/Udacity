@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+</head>
+<body>
+  <canvas id="c" width="400" height="250"></canvas>
+  <script type="text/javascript">
+  //var c = document.querySelector('#c');
+    var c = document.getElementById('c');
+    var ctx = c.getContext('2d');
+
+    var image = new Image();
+
+    image.onload = function() {
+      console.log('Loaded Image');
+      ctx.drawImage(image, 0, 0, c.width, c.height);
+      // save image
+      //var savedImage = c.toDataURL();
+      //open image saved image in new browser
+      //window.open(saveImage);
+    }
+
+    image.src = 'images/Meanwhile.jpg'
+  </script>
+</body>
+</html>
