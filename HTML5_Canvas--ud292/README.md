@@ -34,9 +34,9 @@
 - [HTML Canvas 2D Context - Building Paths](https://www.w3.org/TR/2dcontext/#building-paths)
 
 
-- []()
+- [Web colors - CSS Specification](https://en.wikipedia.org/wiki/Web_colors)
 
-- []()
+- [Canvas2D Drawing text - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
 
 - []()
 
