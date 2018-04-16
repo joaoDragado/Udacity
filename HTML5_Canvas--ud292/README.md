@@ -36,7 +36,6 @@
 
 - [Web colors - CSS Specification](https://en.wikipedia.org/wiki/Web_colors)
 
-- [Canvas2D Drawing text - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
 
 - []()
 
