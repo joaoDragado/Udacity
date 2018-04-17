@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+</head>
+<body>
+  <canvas id="c" width="400" height="250">
+    This is the drawing area of an HTML5 canvas element.
+  </canvas>
+  
+  <script type="text/javascript">
+    
+    //var c = document.querySelector('#c');
+    var c = document.getElementById('c');
+    var ctx = c.getContext('2d');
+    // Draw content onto the canvas
+    //ctx.fillRect(0, 0, c.width, c.height);
+    // create a new, blank ImageData object spaning the whole canvas area. 
+    //All of the pixels in the new object are transparent black.
+    ctx.createImageData(c.width, c.height);
+    // retrieve the ImageData object representing the underlying pixel data for the area of the canvas
+    var imageData = ctx.getImageData(0, 0, c.width, c.height);
+
+    for (var i = 1; i < imageData.data.length; i+=40) {
+      imageData.data[i] = 255;
+      imageData.data[i+2] = 255;
+    }
+    
+    // paints data from the given ImageData object onto the bitmap.
+    ctx.putImageData(imageData, 0, 0);     
+
+  </script>
+</body>
+</html>
