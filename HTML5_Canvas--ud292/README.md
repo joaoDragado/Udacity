@@ -41,9 +41,9 @@
 
 - [Manipulating video using canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Manipulating_video_using_canvas)
 
-- []()
+- [window.requestAnimationFrame()](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
 
-- []()
+- [Animation Loops with requestAnimationFrame](https://www.kirupa.com/html5/animating_with_requestAnimationFrame.htm)
 
 - []()
 
