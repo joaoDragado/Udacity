@@ -45,10 +45,10 @@
 
 - [Animation Loops with requestAnimationFrame](https://www.kirupa.com/html5/animating_with_requestAnimationFrame.htm)
 
-- []()
 
-- []()
+### The Game Loop / Processing User Input
 
-- []()
+> see theGameLoop.md
 
-- []()
+- [Kibo.js](https://github.com/marquete/kibo) - a JavaScript library for processing keyboard input.
+ 

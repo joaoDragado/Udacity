@@ -4,39 +4,11 @@
   <title></title>
 </head>
 <body>
-  <video id="v" controls loop>
-    <source src="images/AncientHugeFlyingfox.webm" type="video/webm">
-  </video>
   <canvas id="c">
+
   </canvas>
   <script type="text/javascript">
-    // main fuction that runs after all DOM content is loaded
-    document.addEventListener('DOMContentLoaded', function() {
-      // video element
-      var v = document.getElementById('v');
-      // canvas element
-      var canvas = document.getElementById('c');
-      var ctx = canvas.getContext('2d');
-      
-      /*the loadedmetadata attribute of thr video element contains among others, the video width & height.
-      This is how we obtain these & set the canvas dimensions to mathc the video ones.*/
-      v.addEventListener('loadedmetadata', function() {
-        canvas.width = this.videoWidth;
-        canvas.height = this.videoHeight;  
-      });
 
-      // function to draw a video screenshot
-      var draw = function() {
-        canvas.getContext('2d').drawImage(v, 0, 0);
-        // this fetches each video frame & keeps playback in sync.
-        requestAnimationFrame(draw);
-      }
-      // when user pauses the video, take a video screenshot and place it inside the canvas (which is right below the video element).
-      v.addEventListener('play', function() {
-        if (v.paused || v.ended) return;
-        draw()
-      })
-    });
   </script>
 </body>
 </html>
